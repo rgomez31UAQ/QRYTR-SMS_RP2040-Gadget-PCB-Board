@@ -165,7 +165,9 @@ Once uploaded, navigate the menu with the arrow buttons (left, right, up, down).
 
 -Reshare keys to trusted contacts, possibly by signing them as well.
 
--Possible enable local, offline password manager.
+-Possibly enable local, offline password manager.
+
+-Explicitly overwrite all arrays containing plaintext or cryptographic material after use, to remove them from the stack and SRAM.
 
 # FAQ
 ## hardware
