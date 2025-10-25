@@ -171,6 +171,8 @@ Once uploaded, navigate the menu with the arrow buttons (left, right, up, down).
 
 -Facilitate group keys to share QR codes in a group chat.
 
+-Option to pre-share a symmetric key in person as a (non-PFS) measure against quantum computers.
+
 # FAQ
 ## hardware
 Q: Could we run the whole device on 3.3V? 
